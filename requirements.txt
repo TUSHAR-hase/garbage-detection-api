@@ -1,5 +1,5 @@
 flask
 ultralytics
-opencv-python
+opencv-python-headless
 numpy
-torch
+torch==2.0.0
